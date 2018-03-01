@@ -2,7 +2,7 @@ require 'anemone'
 require 'nokogiri'
 require 'robotex'
 
-
+#テスト
 
 class AlphaNum
 
